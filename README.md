@@ -7,14 +7,22 @@ https://www.nature.com/articles/s41592-018-0109-9
 
 ![Figure 4](https://raw.githubusercontent.com/nplcode/lfads-neural-stitching-reproduce/master/fig4_raster.png "Figure 4")
 
-This repo was prepared by Daniel O'Shea, for questions or issues, it would be preferable to file an issue on Github directly.
+This repo was prepared by [Daniel O'Shea](http://djoshea.com), for questions or issues, it would be preferable to file an issue on Github directly.
 
 # What you'll need
 
 * *Git LFS* (required to download the larger portions of this repo): https://git-lfs.github.com
 * *MATLAB*, particularly a relatively modern version. I'm using 2019a but 2017 onwards should work.
 * *LFADS Run Manager*: https://github.com/lfads/lfads-run-manager (see docs at https://lfads.github.io/lfads-run-manager/), if you want to prepare an LFADS run and load the results into MATLAB easily
-* *LFADS Python / TensorFlow*, if you want to retrain the model: see https://lfads.github.io/lfads-run-manager/install/ for installation instructions
+* *LFADS Python / TensorFlow*, if you want to retrain the LFADS model rather than use the exported posterior means: see https://lfads.github.io/lfads-run-manager/install/ for installation instructions
+
+# Clone the repo
+
+Once you've downloaded Git LFS and installed it, you should be able to run:
+
+```
+git lfs clone https://github.com/nplcode/lfads-neural-stitching-reproduce.git
+```
 
 # Details
 
