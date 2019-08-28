@@ -10,7 +10,7 @@ for nfold = 0 : K-1
     trainInds = allInds( mod( allInds, K) ~= nfold );
     testInds = setdiff( allInds, trainInds );
     % fit an OLE to the neural data
-    model = Analysis.Decoding.fitOLE( Tin(trainInds) );
+    model = PierreEricLFADS.Decoding.fitOLE( Tin(trainInds) );
     % actually run the decoder
     ToutTmp = PierreEricLFADS.Decoding.decodeOLE(model, Tin(testInds));
 
