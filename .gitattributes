@@ -1,0 +1,4 @@
+export_v05_broadbandRethreshNonSorted_filtered/* filter=lfs diff=lfs merge=lfs -text
+paper_v11_resubmit/* filter=lfs diff=lfs merge=lfs -text
+posterior_means_export/* filter=lfs diff=lfs merge=lfs -text
+results/ filter=lfs diff=lfs merge=lfs -text
