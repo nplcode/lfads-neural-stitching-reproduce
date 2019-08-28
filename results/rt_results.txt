@@ -1,0 +1,2 @@
+Mean improvement: 0.1489
+p value signrank: 6.1299204e-08

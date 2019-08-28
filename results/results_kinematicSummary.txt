@@ -1,0 +1,4 @@
+Stitched vs single: p = 7.61594e-09 sign rank, mean delta 0.22479
+Smoothed vs single: p = 7.61594e-09 sign rank, mean delta 0.323949
+GPFA vs single: p = 7.61594e-09 sign rank, mean delta 0.267097
+GPFA vs smoothed neural: p = 7.61594e-09 sign rank, mean delta 0.0568526

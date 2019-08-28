@@ -1,0 +1,4 @@
+p value signrank x: 7.6159429e-09
+p value signrank y: 1.233329e-08
+median delta 0.2141219
+delta of medians 0.19820901

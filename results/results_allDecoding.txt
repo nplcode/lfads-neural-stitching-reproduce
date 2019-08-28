@@ -1,0 +1,78 @@
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.18661    0.16871    0.23024
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.74509    0.69826    0.76319
+
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.18661    0.16871    0.23024
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.75164    0.69156    0.77427
+
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.21984    0.19445    0.28213
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.75164    0.69156    0.77427
+
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.21984    0.19445    0.28213
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.75164    0.69156    0.77427
+
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.21984    0.19445    0.28213
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.75164    0.69156    0.77427
+
+
+stats =
+
+  4x3 table
+
+                    median      prc25      prc75 
+                    _______    _______    _______
+
+    smoothed        0.17473    0.14546    0.20605
+    gpfa            0.21984    0.19445    0.28213
+    single_lfads    0.50204    0.43239     0.5857
+    multi_lfads     0.75164    0.69156    0.77427
+
