@@ -26,18 +26,18 @@ git lfs clone https://github.com/nplcode/lfads-neural-stitching-reproduce.git
 
 # Details
 
-If you just want the data, the data fed into LFADS are located in `export_v05_broadbandRethreshNonSorted_filtered` as mat files 
-and the outputs (LFADS posterior means) have been exported as HDF5 files into posterior_means_export for all of the single
+If you just want the data, the data fed into LFADS are located in [`export_v05_broadbandRethreshNonSorted_filtered`](https://github.com/nplcode/lfads-neural-stitching-reproduce/blob/master/export_v05_broadbandRethreshNonSorted_filtered) as mat files 
+and the outputs (LFADS posterior means) have been exported as HDF5 files into [`posterior_means_export`](https://github.com/nplcode/lfads-neural-stitching-reproduce/blob/master/posterior_means_export) for all of the single
 dataset runs and the stitched model.
 
-If you'd like to rerun LFADS yourself, follow along in the notebook provided `neural_stitching_walkthrough.ipynb`. 
+If you'd like to rerun LFADS yourself, follow along in the notebook provided [`neural_stitching_walkthrough.ipynb`](https://github.com/nplcode/lfads-neural-stitching-reproduce/blob/master/neural_stitching_walkthrough.ipynb). 
 Then you can train LFADS with instructions provided at https://lfads.github.io/lfads-run-manager/.
 
 The decoding and analysis scripts are too interwoven into my personal analysis toolkit to extract easily, 
 but I've included the code regardless for your reference. The saved outputs from these scripts are included in the 
-`results` folder. Some of the scripts inside `+PierreEricLFADS` reference these saved outputs to generate individual figure
+`results` folder. Some of the scripts inside [`+PierreEricLFADS`](https://github.com/nplcode/lfads-neural-stitching-reproduce/blob/master/+PierreEricLFADS) reference these saved outputs to generate individual figure
 panels directly, and thus do not depend on the kinematic decoding. The primary result decoding kinematics from LFADS factors 
-is done in `kinematicDecodeFromFactors.m`.
+is done in [`kinematicDecodeFromFactors.m`](https://github.com/nplcode/lfads-neural-stitching-reproduce/blob/master/+PierreEricLFADS/kinematicDecodeFromFactors.m).
 
 # Questions?
 
